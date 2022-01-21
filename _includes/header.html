@@ -31,18 +31,38 @@
               {% endif %}
             </a>
           </li>
-          {% if site.blog_name %}
-          <!-- Blog -->
-          <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/blog/' | relative_url }}">
-              blog
-              {% if page.title == "blog" %}
+          
+          <!-- Publication -->
+          <li class="nav-item {% if page.url contains 'publications' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/publications/' | relative_url }}">
+              publications
+              {% if page.title == "publications" %}
               <span class="sr-only">(current)</span>
               {% endif %}
             </a>
           </li>
-          {% endif %}
-          <!-- Other pages -->
+
+
+          <!-- activities. -->
+          <li class="nav-item {% if page.url contains 'activities' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/activities/' | relative_url }}">
+              activities
+              {% if page.title == "activities" %}
+              <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+          
+          <!-- talks  -->
+          <li class="nav-item {% if page.url contains 'talks' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/talks/' | relative_url }}">
+              talks
+              {% if page.title == "talks" %}
+              <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+          <!-- Other pages
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}
           {% if p.nav and p.autogen == nil %}
@@ -55,7 +75,28 @@
               </a>
           </li>
           {% endif %}
-          {% endfor %}
+          {% endfor %} -->
+          <!-- CV -->
+          <li class="nav-item">
+            <a class="nav-link" href="/assets/pdf/CV_2022_Jan.pdf" target="_blank">
+              cv
+            </a>
+          </li>
+          
+
+          <!-- Blog
+          {% if site.blog_name %}
+          <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/blog/' | relative_url }}">
+              blog
+              {% if page.title == "blog" %}
+              <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
+          {% endif %} -->
+
+          <!-- dark mode icon-->
           {% if site.enable_darkmode %}
             <div class = "toggle-container">
               <a id = "light-toggle">
@@ -64,6 +105,7 @@
               </a>
             </div>
           {% endif %}
+
         </ul>
       </div>
     </div>
