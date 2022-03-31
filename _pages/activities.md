@@ -53,4 +53,5 @@ nav: true
 - <a href="http://dev.wonjoon.me/"> Wonjoon Goo </a>, offline rl
 - <a href="https://jesbu1.github.io/"> Jesse Zhang </a>, offline rl
 - <a href="https://www.linkedin.com/in/dweep-trivedi/"> Dweep Trivedi </a>, offline rl
-- <a href=""> Miyoung Ko </a>, fact verification
+- <a href="https://lklab.kaist.ac.kr/ea0a1b9f-a5cc-49fd-85bd-93704a228585"> Miyoung Ko </a>, fact verification
+- <a href="https://minahuh.com/"> Mina Huh </a>, accessibly video content creation
