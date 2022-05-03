@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Research Scientist at <a href="#">Naver AI Lab</a>.
+description: Research Scientist at <a href="#">Google </a>.
 
 profile:
   align: right
@@ -13,11 +13,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi :) I am a research scientist and a technical leader at [NAVER AI Lab](), where I explore novel computational interaction techniques powered by AI technologies. I build and evaluating AI powered systems with users in the loop. I am also an adjunct professor at the [KAIST Graduate School of AI](http://gsai.kaist.ac.kr).
+Hi :) I am a research scientist in the [PAIR (People and AI Research) team](https://pair.withgoogle.com/) at [Google](https://ai.google/), where I explore novel computational interaction techniques powered by AI technologies. I build and evaluate AI powered systems with users in the loop. I am also an adjunct professor at the [KAIST Graduate School of AI](http://gsai.kaist.ac.kr). 
 
-My current research interests are 1) making [massive scale language models]() usable and useful, 2) [simulation-based models]() of users and interfaces. 
+My research interests are 1) making [massive scale language models]() usable and useful, 2) [simulation-based models]() of users and interfaces.
 
-I have a PhD in Computer Science from [KAIST](http://www.kaist.ac.kr){:target="\_blank"}. During my PhD, I was advised by [Juho Kim](http://juhokim.com){:target="\_blank"} in the [KIXLAB](http://kixlab.org){:target="\_blank"}.
+I have a PhD in Computer Science from [KAIST](http://www.kaist.ac.kr){:target="\_blank"}. During my PhD, I was advised by [Juho Kim](http://juhokim.com){:target="\_blank"} in the [KIXLAB](http://kixlab.org){:target="\_blank"}. Before joining Google, I was a research scientist and a technical leader at [Naver AI](https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab).
 
 <!-- In the past,
 I studied Computer Science, Financial Engineering from KAIST, Finance from Simon Business School @ University of Rochester, and Statistics from Rutgers University. I have worked at an Hedge Fund in NYC trying to beat the market by relentlessly crunching numbers prior to coming (back) to KAIST. I've spent two years in the reinforcement learning (as a subfield of machine learning) research group at KAIST as a Ph.D student before joining KIXLAB (the KAIST Interaction Lab). -->

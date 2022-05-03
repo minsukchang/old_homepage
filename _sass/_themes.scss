@@ -5,8 +5,8 @@
 :root {
   --global-bg-color: #{$white-color};
   --global-text-color: #{$black-color};
-  --global-theme-color: #{$naver-green};
-  --global-hover-color: #{$naver-green};
+  --global-theme-color: #{$google-blue};
+  --global-hover-color: #{$google-red};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
@@ -25,8 +25,8 @@
 html[data-theme='dark'] {
   --global-bg-color: #{$grey-color-dark};
   --global-text-color: #{$grey-color-light};
-  --global-theme-color: #{$naver-green};
-  --global-hover-color: #{$naver-green};
+  --global-theme-color: #{$google-yellow};
+  --global-hover-color: #{$google-green};
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
