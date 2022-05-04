@@ -13,9 +13,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi :) I am a research scientist in the [PAIR (People and AI Research) team](https://pair.withgoogle.com/) at [Google](https://ai.google/), where I explore novel computational interaction techniques powered by AI technologies. I build and evaluate AI powered systems with users in the loop. I am also an adjunct professor at the [KAIST Graduate School of AI](http://gsai.kaist.ac.kr). 
+Hi :) I am joining the [PAIR (People and AI Research) team](https://pair.withgoogle.com/) at [Google AI](https://ai.google/) as a research scientist in a few weeks. In my research, I explore novel computational interaction techniques powered by AI technologies by designing, building, and evaluating AI powered systems with users in the loop. I am also an adjunct professor at the [KAIST Graduate School of AI](http://gsai.kaist.ac.kr). 
 
-My research interests are 1) making [massive scale language models]() usable and useful, 2) [simulation-based models]() of users and interfaces.
+These days, I am interested in 1) making [large-scale language models]() usable and useful, and 2) [simulation-based models]() of users and interfaces.
 
 I have a PhD in Computer Science from [KAIST](http://www.kaist.ac.kr){:target="\_blank"}. During my PhD, I was advised by [Juho Kim](http://juhokim.com){:target="\_blank"} in the [KIXLAB](http://kixlab.org){:target="\_blank"}. Before joining Google, I was a research scientist and a technical leader at [Naver AI](https://naver-career.gitbook.io/en/teams/clova-cic/ai-lab).
 
