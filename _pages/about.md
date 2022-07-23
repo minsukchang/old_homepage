@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi :) I am a Research Scientist on the [PAIR (People and AI Research)](https://pair.withgoogle.com/) team at [Google Brain](https://research.google/teams/brain/). I explore novel computational interaction techniques powered by AI technologies by designing, building, and evaluating AI powered systems with users in the loop. I am also an adjunct professor at the [KAIST Graduate School of AI](http://gsai.kaist.ac.kr). 
+Hi :) I am a Research Scientist on the [PAIR (People and AI Research)](https://pair.withgoogle.com/) team at [Google Research](https://research.google/teams/brain/). I explore novel computational interaction techniques powered by AI technologies by designing, building, and evaluating AI powered systems with users in the loop. I am also an adjunct professor at the [KAIST Graduate School of AI](http://gsai.kaist.ac.kr). 
 
 These days I am interested in 1) making [large-scale language models]() usable and useful, and 2) [simulation-based models]() of users and interfaces.
 
