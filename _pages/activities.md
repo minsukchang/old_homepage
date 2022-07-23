@@ -45,7 +45,7 @@ nav: true
 <br/>
 <br/>
 
-## intern/student collaborators
+## Intern/student collaborators
 - <a href="https://hsmoon121.github.io/"> Heeseung Moon </a>, computational interaction
 - <a href="https://johnr0.github.io/"> John Joon Young Chung </a>, creativity support tools
 - <a href="https://www.youngwookdo.me/"> Youngwook Do </a>, interaction technique
